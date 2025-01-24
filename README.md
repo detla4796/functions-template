@@ -8,7 +8,7 @@ This project contains several separate C++ programs, each solving a specific pro
 
 ### 1. Calculating the Average of an Array
 
-- **File**: `average.cpp`
+- **File**: `Average.cpp`
 - **Description**: This program calculates the average of values in an array using a template function.
 
 ### 2. Finding the Root of a Linear Equation
